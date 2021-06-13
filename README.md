@@ -1,0 +1,1 @@
+#c++ console application which encryption text using the specific algorithm and after encryption, decrypt it again  to make sure everything is correct 
